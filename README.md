@@ -1,3 +1,3 @@
 # MyFirstProject
-Heyhey, this is an attempt from my local vscode
-Hello, this is an attempy from github
+Heyhey, this is an attempt from my local VScode
+Hello, this is an attempt from GitHub
